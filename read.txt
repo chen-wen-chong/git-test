@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 ÇçjÀÊµÄÔçÉÏ master test
-1111111111
+11111111111 hot-fix test
+>>>>>>> hot-fix
